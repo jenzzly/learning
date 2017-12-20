@@ -13,8 +13,3 @@ write_handler.close
 data_from_file = File.read("Bou.out")
 
 puts "Data from file: " + data_from_file
-
-
-
-
-
